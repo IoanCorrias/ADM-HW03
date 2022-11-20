@@ -5,6 +5,8 @@ The content of this repo refers to the third homework of ADM ():
 - `fun.py` a script containing all the custom functions used for my research in `main.ipynb`;
 - `CommandLine.sh` a bash shell script file that contains the prepared script to answer to the command line question.
 
+[Link to nbviewer](https://nbviewer.org/github/IoanCorrias/ADM-HW03/blob/main/main.ipynb)
+
 Contacts:
 - personal email: ioan27corrias@gmail.com
 - institutional email: corrias.2079420@studenti.uniroma1.it
